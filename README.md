@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-.slide: data-background-image="git-github.png"
+- 
+Link Attributes:
+![alt text](git-github.jpg){.center}
 
 <!---
 creativ3lab/creativ3lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
