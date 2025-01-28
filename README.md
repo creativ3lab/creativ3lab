@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 
-Link Attributes:
-![alt text](git-github.png){.center}
+<body>
+  <img class="bg" src="images/git-github.png" />
+</body>
 
 <!---
 creativ3lab/creativ3lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
