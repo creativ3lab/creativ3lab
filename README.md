@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - 
 Link Attributes:
-![alt text](git-github.jpg){.center}
+![alt text](git-github.png){.center}
 
 <!---
 creativ3lab/creativ3lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
